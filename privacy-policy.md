@@ -1,3 +1,8 @@
+**Important Disclaimer**
+The content provided in this app serves general informational purposes and is not intended to portray any government or political entity. We source our app's content from reliable and publicly available sources; however, we cannot assure the accuracy, completeness, or reliability of the information.
+
+Users of this app are encouraged to use their own judgment and discretion when relying on the presented information. Please be aware that any reliance you place on the app's content is done at your own risk. We strongly advise independently verifying the information from official sources or seeking professional advice whenever necessary.
+
 **Privacy Policy**
 
 Jaydeep Chauhan built the Lakshya - Gujarati GK app as an Ad Supported app. This SERVICE is provided by Jaydeep Chauhan at no cost and is intended for use as is.
